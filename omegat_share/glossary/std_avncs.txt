@@ -1,0 +1,53 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+# ---------- 航电 ---------- #
+sensors	传感器
+Avionics	航电
+flight display	飞行显示器
+Thrust Control	推力控制
+Thrust Controller	推力控制器
+Flight Controls	飞行控制
+flight controller	飞行控制器
+Attitude Control	姿态控制
+Attitude Controller	姿态控制器
+Attitude Aim	姿态指向
+Calibration	校准
+Roll	滚转
+Attitude	姿态
+NavOrb	导航球
+Thrust	推力
+Proximity Positioning System	邻近定位系统
+Proximity Positioning	邻近定位
+Space Positioning System	空间定位系统
+Comm	通信
+Short Range Positioning	近程定位
+Long Range Positioning	远程定位
+Beacon	信标
+Transponder	应答机
+Alliance Identification System	联盟识别系统
+Galactic Navigation Regulations	银河导航条例
+Docked Inhibit	停靠抑制
+Systems Monitoring	系统监控
+Centralized Systems Monitoring	中央系统监控
+audio alarm	声音警报
+advisory log	咨询日志
+advisory cue	咨询提示
+X-Ray Pulsar Receiver	X 射线脉冲星接收机
+receiver	接收机
+star tracker	星跟踪器
+transceiver	收发机
+Relay	中继站
+WARNING	警告
+CAUTION	警诫
+Progress	进程
+Ship log	航行日志
+chained	链式	链式（的）
+interrogation	问询
+Fire Solution Denial System	火控解算拒止系统
+SB	航声频道	航宇者之声频道
+Spacefarers Band	航宇者之声频道
+SRPS	近程定位卫星
+LRPS	远程定位卫星
+UHF	特高频
+SHF	超高频
+Helm station	驾驶台
+Comms Messaging	通信收发

@@ -1,0 +1,28 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Resupply	补给
+supplies	物资
+operation	航行
+facilities	设施
+Checked	检查	检查单用语
+Selected	选定	检查单用语
+Received	收到	检查单用语
+Complete	完成	检查单用语
+Review	审阅
+Refrigeration	供冷	乘员舱供冷回路
+Life Support System	生命保障系统
+Life Support System	生保系统
+messaging	收发
+Gate	登船口
+Gate	廊桥
+Closed	关断	检查单用语
+traffic	活动	指其他航天器活动，管制用语
+Approach Setup	进近准备
+Translation	转移
+Monitor	监控
+Aligned	对正
+Plan then Fly	先规划后飞行
+departure orbit	出发轨道
+Power Plant	动力舱
+Showering schedule	淋浴时间表
+Engineering Station	工程站
+channel	信道

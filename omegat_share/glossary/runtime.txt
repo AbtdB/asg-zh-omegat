@@ -1,0 +1,5 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+MED SUPPLIES	医疗用品
+medical supplies	医疗用品
+pharmacy	药品
+Pressure Suits Management Unit	压力服管理组件

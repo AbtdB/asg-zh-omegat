@@ -1,0 +1,76 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+# ---------- 导航 ----------  #
+Nav	导航
+Navigation	导航
+Maneuvers	机动
+Mvr	机动
+Jumps	跳跃
+flight plan	飞行计划
+Flight Planning	飞行规划
+Prograde	顺向
+apoapsis	远拱点
+periapsis	近拱点
+Plane	平面
+Burn	点火
+DeltaV	速增量
+Translation	平移
+guidance	制导
+Jump-Space	跳跃空间
+Jump-Space polarization	跳跃空间极化
+jump-point	跳跃点
+Modulation	调制
+Course Correction	航线修正
+trajectory propagator	轨迹预报模型
+Routine	例程
+NavTask	导航任务
+Route	航路
+Route Finder	航路查询器
+refueling stop	经停加注
+Navigation Station	导航站
+Automatic Flight Planner	自动飞行规划器
+Flight Editor	飞行编辑器
+Flight Analyzer	飞行分析器
+Jump Explorer	跳跃浏览器
+Sweep	扫掠
+leg	航节
+segment	航段
+ringed planets	有环行星
+ring station	星环空间站
+true anomaly	真近点角
+encounter	交会
+celestial body	天体
+Orbital Elements	轨道根数
+Epoch	历元
+semi major axis	半长轴
+eccentricity	离心率
+inclination	倾角
+longitude of the ascending node	升交点经度
+lan	升交点经度
+argument of the periapsis	近点辐角
+tra	真近点角
+rms	均方根
+rms	均方根误差
+Dilution of Precision	精度衰减因子
+Dead Reckoning	航位推算法
+planned trajectory	预定轨迹
+radio emission	射电辐射
+ETE	预计航路时间
+SOI	影响球
+Coordinated Galactic Time	协调银河时
+B-Plane	B 平面
+Intercept	拦截
+Propagation	预报	轨道预报
+jump approach	跳跃点进近	跳跃点进近轨道
+intermediate orbit	中间轨道
+agp	近点辐角
+sma	半长轴
+ecc	离心率
+peD	近拱点距	periapsis distance
+apD	远拱点距	apoapsis distance
+inc	倾角
+Orbital period	轨道周期
+jump-point locator	跳跃点定位标
+ETA	预达时间
+RDV	会合	rendezvous
+Rendez-vous	会合
+Clearance	净空

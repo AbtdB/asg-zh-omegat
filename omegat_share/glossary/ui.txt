@@ -1,0 +1,38 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+CONVERTER	转换器	电源转换器，指 DC-DC
+CONTROL UNIT	控制组件
+POWER STAGE	功率级	开关电源的开关管部分
+FOOD PROCESSOR	食品加工机
+METABOLIC WASTE	代谢废物
+LAUNDRY	洗衣
+HAB	住舱
+MOTOR	马达
+VESSEL LINING	容器内衬
+MASER	脉泽器
+ACTUATOR	执行器
+maser	脉泽器
+Medical Unit	医疗组件
+Artificial Gravity Unit	人工重力装置
+Channel Set	信道集
+Slave	从属
+main lobe	主瓣
+Consumable	耗材
+USED WATER	污水
+Ultra Dense	超密
+Dense	稠密
+Sparse	稀疏
+Traces	痕量
+Mean ionizing flux	平均电离辐射通量
+Trapped ionizing flux	俘获电离辐射通量
+Terrestrial planet	类地行星
+activity	活力	（乘员的）活力
+stamina	耐力
+allowance	配给
+Sparse	稀薄	（大气）
+comms and sensors station	通信与传感器站
+operations station	运维站
+apopasis	远拱点
+ascending node	升交点
+descending node	降交点
+Preventive Maintenance	预防性维护
+OpHrs	行动时数	Operation Hours

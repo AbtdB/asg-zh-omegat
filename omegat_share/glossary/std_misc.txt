@@ -1,0 +1,75 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+# ---------- 杂项 ---------- #
+Cold Start	冷启动
+Activate	激活
+Engage	接通
+Set	设定
+Set	调定
+Setup	设置
+Setup	装置
+Setup	安装
+Setup	建立
+Setup	准备
+Setup	调定
+As Required	按需
+Checklist	检查单
+Typ	典型
+Tab	标签页
+NB:	注意：
+Arm	预位
+idle	空闲
+idle	慢车
+multiplier	乘数
+Slot	槽位
+cue	提示
+Switch	转换
+Essential	重要
+Deephack Space Ops Consulting	Deephack 空间作业咨询
+AOD	自主轨道设备	Autonomous Orbital Device
+cryo-volcanic	冰火山
+Icy moon	冰质卫星
+Scorched	炽热
+barren	荒芜
+Icy planet	冰质行星
+gas giant	气巨星
+Ice giant	冰巨星
+Induced magnetosphere	诱导磁层
+Intrinsic magnetopause	内禀磁层顶
+Obliquity	黄赤交角
+Asteroid	小行星
+Moonlet	小卫星
+Comet	彗星
+Asteroid belt	小行星带
+Trojans group	特洛伊群
+Greeks group	希腊群
+Center of mass	质心
+Orbital ring station	轨道环空间站
+Ring refueling depot	星环加注站
+ODP	轨道防御平台
+ORD	轨道加注站
+Space elevator station	太空电梯空间站
+Hyper giant star	特超巨星
+Super giant star	超巨星
+Bright giant star	亮巨星
+Giant star	巨星
+Sub-giant star	次巨星
+Red dwarf star	红矮星
+Dwarf star	主序星
+Dwarf star	矮星
+Sub-dwarf star	次矮星
+White dwarf star	白矮星
+Dwarf planet	矮行星
+Tech Level	技术水平
+Utility satellite	应用卫星
+Luminosity	光度
+Type I Cepheid	Ⅰ 型造父变星
+Type II Cepheid	Ⅱ 型造父变星
+RR Lyrae	天琴 RR 型变星
+Flare star	耀星
+cyclic low amplitude	周期低振幅变星
+chaotic low amplitude	混沌低振幅变星
+major asteroid	大型小行星
+skyhook	天钩
+Hypergiant	特超巨星
+Supergiant	超巨星
+Kuiper belt	柯伊伯带

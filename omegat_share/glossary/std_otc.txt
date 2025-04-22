@@ -1,0 +1,65 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+# ---------- 轨道交通管制 ----------  #
+Departure	离港
+Departure	出发
+Precision Departure	精密离港
+Non-Precision Departure	非精密离港
+Approach	进近
+Reference Object	参照物
+Ref Object	参照物
+Arrival	进港
+Glide	滑行
+flaring zone	消速区
+flare	消速
+Orbspace	轨道空域
+Orbspace	轨域
+docking corridor	对接走廊
+Docking Ingress Point	对接入口停泊点
+DIP	停泊点
+docking port	对接口
+Docking	对接
+Docked	停靠
+Relocation	转位
+injection	入轨
+injection	注入
+Course Correction Injection	航线修正注入
+Path	路径
+Trajectory	轨迹
+OTC	轨管
+OTC	轨道交通管制
+Transition	转移
+Transit	转移
+Vector	引导	（雷达）引导
+Vector	航向
+restricted flight region	限飞区
+NavData	导航数据
+parking orbit	停泊轨道
+Departure Point	离港点
+Outward	升轨
+inward	降轨
+Clearance	许可
+Cleared to	可以
+request	请求
+approved	同意
+ready	准备好
+ready	就绪
+Confirm	证实
+Confirmed	已确认
+undocking	对接脱离
+spaceport	太空港
+Violation	违规
+Information	情报
+Acknowledge	认收
+Suspension	搁置
+MilCargo	军用货运	对接口类型
+Procedure	程序
+RX	收
+TX	发
+Vector	航向
+z-plane	恒高面
+ZPS	恒高栈	恒高面堆叠成的栈，形状为环绕空间站的圆柱形空间
+Lift	变高区
+Cleared	可以	轨管用语
+Stand By	等待
+Conflict Suspend	暂停冲突
+Braking to Approach Glide	滑行前制动
