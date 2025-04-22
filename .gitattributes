@@ -1,2 +1,2 @@
-omegat.project text eol=lf
-filters.xml text eol=lf
+omegat.project binary
+filters.xml binary
