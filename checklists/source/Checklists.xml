@@ -3724,6 +3724,14 @@
       <note>Set the flight display to "glide" to visualize the|arrival path to the flaring zone.</note>
     </item>
     <item mustCheck="once">
+      <text indent="false">------</text>
+      <checkAction>Att Stable</checkAction>
+      <checkLogic operator="or">
+        <checkVariable negate="false">FC|Attitude Stable</checkVariable>
+      </checkLogic>
+      <note>Wait for the attitude to stabilize (for a better|efficiency of the glide control system)</note>
+    </item>
+    <item mustCheck="once">
       <text indent="false">Glide Accuracy</text>
       <checkAction>Check</checkAction>
       <audioChallenge>Glide Accuracy</audioChallenge>
@@ -3737,7 +3745,7 @@
       <note>Flare accuracy correction flow.</note>
     </item>
     <item mustCheck="once">
-      <text indent="false">-------- (c)</text>
+      <text indent="false">-------</text>
       <checkAction>20 km</checkAction>
       <audioConfirm>20km to arrival point</audioConfirm>
       <checkLogic operator="or">
@@ -3778,7 +3786,7 @@
       <text indent="false">Flaring Zone (r, α, z) coordinates</text>
       <checkAction>Set</checkAction>
       <audioChallenge>Flare  r  alpha  z coordinates</audioChallenge>
-      <audioConfirm>Set and Checked</audioConfirm>
+      <audioConfirm>Checked</audioConfirm>
       <uiElt>pShp.uiHelmRelativeFlightPanel.modeSelector</uiElt>
       <note>Click the selector to send the flare paramters|provided by OTC to the flight controller</note>
     </item>
@@ -3792,7 +3800,7 @@
       <note>"DIR ▸rαz" is the standard translation mode for|arrivals. When engaged it captures the current|velocity instead of enforcing the commanded|approach velocity.</note>
     </item>
     <item mustCheck="once">
-      <text indent="false">-------- (d)</text>
+      <text indent="false">--------</text>
       <checkAction>Flaring Cue</checkAction>
       <audioConfirm>Flaring Cue</audioConfirm>
       <checkLogic operator="or">
@@ -3840,9 +3848,9 @@
   </checklist>
   <checklist name="Approach Glide Correction" category="Flight Sequence">
     <item mustCheck="no">
-      <text indent="false">Approach Glide Correction (Manual)</text>
+      <text indent="false">Approach Glide Correction</text>
       <audioChallenge>Approach Glide Correction</audioChallenge>
-      <note>Perform a manual correction of the approach|glide based on the projected flare arrival.</note>
+      <note>Perform a semi-automatic correction of the |approach glide based on the projected flare |arrival.</note>
     </item>
     <item mustCheck="once">
       <text indent="false">Thrust Control Mode</text>
@@ -3878,14 +3886,15 @@
       <note>Most of the glide path is flewn in free flight mode|until the final rendez-vous burn (minimum ∆V |cost and power drain)</note>
     </item>
     <item mustCheck="once">
-      <text indent="false">Manual Thrust Inputs (a)</text>
-      <checkAction>Enabled</checkAction>
-      <audioChallenge>Enable the manual thrust controls</audioChallenge>
+      <text indent="false">Glide Mode</text>
+      <checkAction>Display</checkAction>
+      <audioChallenge>Glide mode display</audioChallenge>
+      <audioConfirm>Set</audioConfirm>
       <checkLogic operator="or">
-        <checkVariable negate="false">FC|Manual Inputs Authorized</checkVariable>
+        <checkVariable negate="false">FC|App Display Mode == Glide</checkVariable>
       </checkLogic>
-      <uiElt>pShp.uiHelmFrontPanel.dirMvrButton</uiElt>
-      <note>Enable the manual thrust controls to perform the|correction.</note>
+      <uiElt>pShp.uiHelmRelativeFlightPanel.glideModeButton</uiElt>
+      <note>Project the trajectory up to the flaring zone and|compute the relative arrival error.</note>
     </item>
     <item mustCheck="once">
       <text indent="false">Thrust Level</text>
@@ -3895,25 +3904,26 @@
         <checkVariable negate="false">FC|Approach Commanded Thrust not zero</checkVariable>
       </checkLogic>
       <uiElt>pShp.uiHelmFrontPanel.thrustCtrlTable</uiElt>
-      <note>Set the thrust level, typically 1 kN when correcting|small errors at the beginning of the glide.|3rd line ⨺: increment control|2nd line ⨺: value control</note>
+      <note>Set the thrust level, typically 3 kN when correcting|small errors at the beginning of the glide.|3rd line ⨺: increment control|2nd line ⨺: value control</note>
     </item>
     <item mustCheck="once">
-      <text indent="false">Glide Path</text>
-      <checkAction>Correct</checkAction>
-      <audioChallenge>Adjust the Glide path</audioChallenge>
-      <audioConfirm>Checked</audioConfirm>
-      <uiElt>pShp.uiHelmRelativeFlightPanel.pathDataMkr</uiElt>
-      <note>Adjust the projected path to the flaring zone using|translation thrust (default: numpad keys).|Nominal display: ──○─ ─ ─ ─|blue: incoming approach path|green: flaring zone|dashed gray: missed flare path|⤯εp is the lateral error relative to the flaring zone.|A correction is necessary when ⤯εp &gt; 120m</note>
-    </item>
-    <item mustCheck="once">
-      <text indent="false">Manual Thrust Inputs (b)</text>
-      <checkAction>Disabled</checkAction>
-      <audioChallenge>Disable the manual thrust controls</audioChallenge>
+      <text indent="false">Glide Correction</text>
+      <checkAction>Engage</checkAction>
+      <audioChallenge>Glide correction</audioChallenge>
+      <audioConfirm>Engaged</audioConfirm>
       <checkLogic operator="or">
-        <checkVariable negate="true">FC|Manual Inputs Authorized</checkVariable>
+        <checkVariable negate="false">FC|Glide Correction</checkVariable>
       </checkLogic>
-      <uiElt>pShp.uiHelmFrontPanel.dirMvrButton</uiElt>
-      <note>Disable the manual thrust controls when not in|use.</note>
+      <uiElt>pShp.uiHelmFrontPanel.trackAppButton</uiElt>
+      <note>Engage the glide correction guidance. Press and|maintain until matching the target flare |parameters from OTC.|Nominal display: ──○─ ─ ─ ─|blue: incoming approach path|green: flaring zone|dashed gray: missed flare path|• ⤯εt is the timing error  |• ⤯εp is the lateral error relative to the flaring zone.|A correction is necessary when ⤯εp &gt; 120m</note>
+    </item>
+    <item mustCheck="once">
+      <text indent="false">Flare Data</text>
+      <checkAction>Check</checkAction>
+      <audioChallenge>Flare arrival data</audioChallenge>
+      <audioConfirm>Nominal</audioConfirm>
+      <uiElt>pShp.uiHelmRelativeFlightPanel.pathDataMkr</uiElt>
+      <note>Check that the projected flare arrival is within|the expected tolerances.|Nominal display: ──○─ ─ ─ ─|blue: incoming approach path|green: flaring zone|dashed gray: missed flare path|• ⤯εt is the timing error  |• ⤯εp is the lateral error relative to the flaring zone.|A correction is necessary when ⤯εp &gt; 120m</note>
     </item>
     <item mustCheck="no">
       <text indent="false">Approach Glide Correction Complete</text>
@@ -8380,7 +8390,7 @@
     <item mustCheck="no">
       <text indent="true">WEU A</text>
       <checkLogic operator="or">
-        <checkVariable negate="false">CW|WEU A On</checkVariable>
+        <checkVariable negate="true">CW|WEU A On</checkVariable>
       </checkLogic>
       <uiElt>pShp.uiEngCrewModuleBPanel.weuButton(0)</uiElt>
     </item>
@@ -14835,7 +14845,7 @@
       <text indent="true">Heat Generation</text>
       <checkAction>Monitor</checkAction>
       <uiElt>pShp.uiEngThermalPanel.allBalanceRibbonsMkr</uiElt>
-      <note>Check whether the devive's heat generation|is acceptable</note>
+      <note>Check whether the device's heat generation|is acceptable</note>
     </item>
     <item mustCheck="no">
       <text indent="false">- IF Out Of Order -</text>

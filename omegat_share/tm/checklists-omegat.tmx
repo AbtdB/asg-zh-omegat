@@ -144,8 +144,8 @@
       <tuv lang="en-US">
         <seg>- ENDIF Out Of Order -</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240130T043902Z" creationid="AbtdB" creationdate="20240130T043902Z">
-        <seg>-【结束如果】故障 -</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T112150Z" creationid="AbtdB" creationdate="20240130T043902Z">
+        <seg>-【结束如果】故障不可恢复 -</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="en-US">
         <seg>- IF Out Of Order -</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240130T043809Z" creationid="AbtdB" creationdate="20240130T043809Z">
-        <seg>-【如果】故障 -</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T112200Z" creationid="AbtdB" creationdate="20240130T043809Z">
+        <seg>-【如果】故障不可恢复 -</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +246,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>------</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110421Z" creationid="AbtdB" creationdate="20250426T110421Z">
+        <seg>------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-------</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110555Z" creationid="AbtdB" creationdate="20250426T110555Z">
+        <seg>-------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--------</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110559Z" creationid="AbtdB" creationdate="20250426T110559Z">
+        <seg>--------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-------- (a)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240124T161433Z" creationid="AbtdB" creationdate="20240124T161433Z">
@@ -258,22 +282,6 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240124T161624Z" creationid="AbtdB" creationdate="20240124T161624Z">
         <seg>-------- (b)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>-------- (c)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T093942Z" creationid="AbtdB" creationdate="20240125T093942Z">
-        <seg>-------- (c)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>-------- (d)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T095258Z" creationid="AbtdB" creationdate="20240125T095258Z">
-        <seg>-------- (d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,14 +1350,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Adjust the Glide path</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T100443Z" creationid="AbtdB" creationdate="20240125T100443Z">
-        <seg>调整滑行路径</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Adjust the T° cooling and heating thresholds as|required. Nominal window is:|- cooling when T° &gt; 300 K|- heating when T° &lt; 240K</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240126T184649Z" creationid="AbtdB" creationdate="20240126T184649Z">
@@ -1426,14 +1426,6 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240130T020642Z" creationid="AbtdB" creationdate="20240130T020642Z">
         <seg>调节活动 MRU 的功率分配。反应堆运行时有主发电机（DEC）提供电力，因此通常设为『中』以节省氢气（提高比冲）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Adjust the projected path to the flaring zone using|translation thrust (default: numpad keys).|Nominal display: ──○─ ─ ─ ─|blue: incoming approach path|green: flaring zone|dashed gray: missed flare path|⤯εp is the lateral error relative to the flaring zone.|A correction is necessary when ⤯εp &gt; 120m</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T100631Z" creationid="AbtdB" creationdate="20240125T100507Z">
-        <seg>手动控制平移推力（默认为小键盘），调整到消速区的预计路径。|正常应显示：──○─ ─ ─ ─|蓝实线：进近路径。|绿圈：消速区。|灰虚线：消速失败时的路径。|【⎯⤰ ↔ ⭘】为路径相对消速区的横向误差。若误差 &gt; 120 m，则必须执行修正。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,14 +1714,6 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T093900Z" creationid="AbtdB" creationdate="20240125T093900Z">
         <seg>进近滑行修正</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Approach Glide Correction (Manual)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T095830Z" creationid="AbtdB" creationdate="20240125T095830Z">
-        <seg>进近滑行修正（手动）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2146,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240731T163535Z" creationid="AbtdB" creationdate="20240731T163535Z">
         <seg>大气泄漏监测：关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Att Stable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110436Z" creationid="AbtdB" creationdate="20250426T110436Z">
+        <seg>姿态稳定</seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check that the projected flare arrival is within|the expected tolerances.|Nominal display: ──○─ ─ ─ ─|blue: incoming approach path|green: flaring zone|dashed gray: missed flare path|• ⤯εt is the timing error |• ⤯εp is the lateral error relative to the flaring zone.|A correction is necessary when ⤯εp &gt; 120m</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T111923Z" creationid="AbtdB" creationdate="20250426T111707Z">
+        <seg>检查到消速区的预测路径，确保误差在可接受范围内。|正常应显示：──○─ ─ ─ ─|蓝实线：进港路径。|绿圈：消速区。|灰虚线：消速失败时的路径。|【⤯εt】为时间误差。|【⤯εp】为路径相对消速区的横向误差。|若 ⤯εp &gt; 120 m，则必须执行修正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check the 20 kV and 400 V lines for the main bus|and section 1</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240126T184317Z" creationid="AbtdB" creationdate="20240126T184317Z">
@@ -3702,18 +3702,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Check whether the device's power consumption |is acceptable.</seg>
+        <seg>Check whether the device's heat generation|is acceptable</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240130T043807Z" creationid="AbtdB" creationdate="20240130T043807Z">
-        <seg>检查设备功耗是否在可接受范围内。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T111957Z" creationid="AbtdB" creationdate="20250426T111945Z">
+        <seg>检查设备废热是否在可接受范围内。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Check whether the devive's heat generation|is acceptable</seg>
+        <seg>Check whether the device's power consumption |is acceptable.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240130T043808Z" creationid="AbtdB" creationdate="20240130T043808Z">
-        <seg>检查设备产热是否在可接受范围内。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240130T043807Z" creationid="AbtdB" creationdate="20240130T043807Z">
+        <seg>检查设备功耗是否在可接受范围内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4826,14 +4826,6 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240129T140736Z" creationid="AbtdB" creationdate="20240129T140736Z">
         <seg>应急储备时长</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Correct</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T100433Z" creationid="AbtdB" creationdate="20240125T100433Z">
-        <seg>正确</seg>
       </tuv>
     </tu>
     <tu>
@@ -6598,30 +6590,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Disable the manual thrust controls</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T101335Z" creationid="AbtdB" creationdate="20240125T101335Z">
-        <seg>禁用手动推力输入</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Disable the manual thrust controls when not in|use.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T101413Z" creationid="AbtdB" creationdate="20240125T101413Z">
-        <seg>未使用时禁用手动推力输入。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Disabled</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T101326Z" creationid="AbtdB" creationdate="20240125T101326Z">
-        <seg>禁用</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Disarm the emergency cooling protection for the|power plant equipment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240124T175304Z" creationid="AbtdB" creationdate="20240124T175304Z">
@@ -7646,34 +7614,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Enable the manual thrust controls</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T100238Z" creationid="AbtdB" creationdate="20240125T100238Z">
-        <seg>启用手动推力输入</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Enable the manual thrust controls to perform the|correction.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T100248Z" creationid="AbtdB" creationdate="20240125T100248Z">
-        <seg>启用手动推力输入，以执行修正。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Enable two-step</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240126T145257Z" creationid="AbtdB" creationdate="20240126T145257Z">
         <seg>启用两步转移</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Enabled</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T100233Z" creationid="AbtdB" creationdate="20240125T100233Z">
-        <seg>启用</seg>
       </tuv>
     </tu>
     <tu>
@@ -7858,6 +7802,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240130T014907Z" creationid="AbtdB" creationdate="20240130T014701Z">
         <seg>设备应急冷却系统接通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Engage the glide correction guidance. Press and|maintain until matching the target flare |parameters from OTC.|Nominal display: ──○─ ─ ─ ─|blue: incoming approach path|green: flaring zone|dashed gray: missed flare path|• ⤯εt is the timing error |• ⤯εp is the lateral error relative to the flaring zone.|A correction is necessary when ⤯εp &gt; 120m</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T111624Z" creationid="AbtdB" creationdate="20250426T111553Z">
+        <seg>接通滑行修正制导。按下按钮并保持，直到进港路径符合轨管要求。|正常应显示：──○─ ─ ─ ─|蓝实线：进港路径。|绿圈：消速区。|灰虚线：消速失败时的路径。|【⤯εt】为时间误差。|【⤯εp】为路径相对消速区的横向误差。|若 ⤯εp &gt; 120 m，则必须执行修正。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8782,6 +8734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flare Data</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T111813Z" creationid="AbtdB" creationdate="20250426T111609Z">
+        <seg>消速区数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flare Distance</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240126T143252Z" creationid="AbtdB" creationdate="20240126T143252Z">
@@ -8794,6 +8754,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T093906Z" creationid="AbtdB" creationdate="20240125T093906Z">
         <seg>消速精度修正流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flare arrival data</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T111821Z" creationid="AbtdB" creationdate="20250426T111640Z">
+        <seg>消速区数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -9758,10 +9726,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Glide Path</seg>
+        <seg>Glide Correction</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T100423Z" creationid="AbtdB" creationdate="20240125T100423Z">
-        <seg>滑行路径</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T111003Z" creationid="AbtdB" creationdate="20250426T111003Z">
+        <seg>滑行修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glide Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110703Z" creationid="AbtdB" creationdate="20250426T110703Z">
+        <seg>滑行模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -9770,6 +9746,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240122T174736Z" creationid="AbtdB" creationdate="20240122T174736Z">
         <seg>滑行与进港</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glide correction</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T111008Z" creationid="AbtdB" creationdate="20250426T111008Z">
+        <seg>滑行修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glide mode display</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110755Z" creationid="AbtdB" creationdate="20250426T110755Z">
+        <seg>显示模式：滑行</seg>
       </tuv>
     </tu>
     <tu>
@@ -10392,8 +10384,8 @@
       <tuv lang="en-US">
         <seg>Heat Generation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240130T043739Z" creationid="AbtdB" creationdate="20240130T043739Z">
-        <seg>产热</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T111950Z" creationid="AbtdB" creationdate="20240130T043739Z">
+        <seg>废热</seg>
       </tuv>
     </tu>
     <tu>
@@ -13742,22 +13734,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Manual Thrust Inputs (a)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T100230Z" creationid="AbtdB" creationdate="20240125T100230Z">
-        <seg>手动推力输入 (a)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Manual Thrust Inputs (b)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T101324Z" creationid="AbtdB" creationdate="20240125T101324Z">
-        <seg>手动推力输入 (b)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Many other phenomena can affect the flight path|such as small errors on the estimated local gravity|field. Another source to be closely monitored is|unexpected gas venting (leaks).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240130T032817Z" creationid="AbtdB" creationdate="20240130T032817Z">
@@ -15574,10 +15550,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Perform a manual correction of the approach|glide based on the projected flare arrival.</seg>
+        <seg>Perform a semi-automatic correction of the |approach glide based on the projected flare |arrival.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T095952Z" creationid="AbtdB" creationdate="20240125T095952Z">
-        <seg>手动修正预计进港点位置。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110652Z" creationid="AbtdB" creationdate="20250426T110639Z">
+        <seg>使用半自动方式修正预计进港点位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16858,6 +16834,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240124T161602Z" creationid="AbtdB" creationdate="20240124T161602Z">
         <seg>继续执行跳跃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project the trajectory up to the flaring zone and|compute the relative arrival error.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110936Z" creationid="AbtdB" creationdate="20250426T110924Z">
+        <seg>显示到消速区的预测滑行轨迹和相对误差。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19670,10 +19654,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Set the thrust level, typically 1 kN when correcting|small errors at the beginning of the glide.|3rd line ⨺: increment control|2nd line ⨺: value control</seg>
+        <seg>Set the thrust level, typically 3 kN when correcting|small errors at the beginning of the glide.|3rd line ⨺: increment control|2nd line ⨺: value control</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T100418Z" creationid="AbtdB" creationdate="20240125T100418Z">
-        <seg>设定推力等级。通常 1 kN 就足以修正滑行起始阶段的小误差。|第三行 ⨺：设定调节步长。|第二行 ⨺：调节推力大小。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110954Z" creationid="AbtdB" creationdate="20250426T110954Z">
+        <seg>设定推力等级。通常 3 kN 就足以修正滑行起始阶段的小误差。|第三行 ⨺：设定调节步长。|第二行 ⨺：调节推力大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24370,6 +24354,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240125T094012Z" creationid="AbtdB" creationdate="20240125T094012Z">
         <seg>等待距目标 20 km 时的咨询提示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for the attitude to stabilize (for a better|efficiency of the glide control system)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T110540Z" creationid="AbtdB" creationdate="20250426T110532Z">
+        <seg>等待姿态稳定（稳定后滑行控制系统更高效）。</seg>
       </tuv>
     </tu>
     <tu>
