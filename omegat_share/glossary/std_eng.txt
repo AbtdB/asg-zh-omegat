@@ -100,8 +100,10 @@ service	维护
 delayed button	延时按钮
 Estimated Time To Failure	预计无故障时间
 operation	运行
+operation	运维
 operation	作业
 operation	操作
+operation	行动
 Purge	吹扫
 Purge	吹除
 Purge	清除

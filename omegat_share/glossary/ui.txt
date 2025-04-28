@@ -36,3 +36,6 @@ ascending node	升交点
 descending node	降交点
 Preventive Maintenance	预防性维护
 OpHrs	行动时数	Operation Hours
+packet	数据包	指网络中传输的数据单位
+IDN	星际数据网
+Interstellar Data Network	星际数据网
