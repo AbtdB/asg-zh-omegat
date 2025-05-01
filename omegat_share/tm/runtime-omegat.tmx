@@ -4008,8 +4008,8 @@
       <tuv lang="en-US">
         <seg>Cold Start</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240209T025044Z" creationid="AbtdB" creationdate="20240209T025044Z">
-        <seg>冷启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040552Z" creationid="AbtdB" creationdate="20240209T025044Z">
+        <seg>冷起动</seg>
       </tuv>
     </tu>
     <tu>
@@ -16376,8 +16376,8 @@
       <tuv lang="en-US">
         <seg>REACTOR START MAIN THRUST DISENGAGE</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T112946Z" creationid="AbtdB" creationdate="20231025T132825Z">
-        <seg>反应堆启动·主推力断开</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040548Z" creationid="AbtdB" creationdate="20231025T132825Z">
+        <seg>反应堆起动·主推力断开</seg>
       </tuv>
     </tu>
     <tu>
@@ -16936,16 +16936,16 @@
       <tuv lang="en-US">
         <seg>Reactor #1 Cold Power Up</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240209T025305Z" creationid="AbtdB" creationdate="20240209T025305Z">
-        <seg>反应堆 1 区冷启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040602Z" creationid="AbtdB" creationdate="20240209T025305Z">
+        <seg>反应堆 1 区冷起动</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Reactor #1 Hot Power Up</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240209T025303Z" creationid="AbtdB" creationdate="20240209T025303Z">
-        <seg>反应堆 1 区热启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040557Z" creationid="AbtdB" creationdate="20240209T025303Z">
+        <seg>反应堆 1 区热起动</seg>
       </tuv>
     </tu>
     <tu>
@@ -16960,16 +16960,16 @@
       <tuv lang="en-US">
         <seg>Reactor #2 Cold Power Up</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240209T025307Z" creationid="AbtdB" creationdate="20240209T025307Z">
-        <seg>反应堆 2 区冷启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040603Z" creationid="AbtdB" creationdate="20240209T025307Z">
+        <seg>反应堆 2 区冷起动</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Reactor #2 Hot Power Up</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240209T025303Z" creationid="AbtdB" creationdate="20240209T025303Z">
-        <seg>反应堆 2 区热启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040558Z" creationid="AbtdB" creationdate="20240209T025303Z">
+        <seg>反应堆 2 区热起动</seg>
       </tuv>
     </tu>
     <tu>
@@ -16984,16 +16984,16 @@
       <tuv lang="en-US">
         <seg>Reactor #3 Cold Power Up</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240209T025308Z" creationid="AbtdB" creationdate="20240209T025308Z">
-        <seg>反应堆 3 区冷启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040609Z" creationid="AbtdB" creationdate="20240209T025308Z">
+        <seg>反应堆 3 区冷起动</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Reactor #3 Hot Power Up</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240209T025304Z" creationid="AbtdB" creationdate="20240209T025304Z">
-        <seg>反应堆 3 区热启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040600Z" creationid="AbtdB" creationdate="20240209T025304Z">
+        <seg>反应堆 3 区热起动</seg>
       </tuv>
     </tu>
     <tu>
@@ -17008,16 +17008,16 @@
       <tuv lang="en-US">
         <seg>Reactor Start</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240209T025259Z" creationid="AbtdB" creationdate="20240209T025259Z">
-        <seg>反应堆启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040555Z" creationid="AbtdB" creationdate="20240209T025259Z">
+        <seg>反应堆起动</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Reactor start: main thrust disengage.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231027T144006Z" creationid="AbtdB" creationdate="20231027T144006Z">
-        <seg>反应堆启动：主推力断开</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040550Z" creationid="AbtdB" creationdate="20231027T144006Z">
+        <seg>反应堆起动：主推力断开</seg>
       </tuv>
     </tu>
     <tu>

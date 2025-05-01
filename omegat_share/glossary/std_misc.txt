@@ -1,6 +1,6 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 # ---------- 杂项 ---------- #
-Cold Start	冷启动
+Cold Start	冷起动
 Activate	激活
 Engage	接通
 Set	设定

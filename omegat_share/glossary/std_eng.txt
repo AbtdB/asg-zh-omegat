@@ -27,6 +27,7 @@ main engine	主发动机
 spool-up	升功率
 Power-Up	升功率
 power-up	上电
+Power Up	起动
 Power Up	启动
 Deuterium	氘
 Helium-3	氦 3

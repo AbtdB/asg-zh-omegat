@@ -1178,8 +1178,8 @@
       <tuv lang="en-US">
         <seg>Cleared for Reactor Activation, </seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240111T154417Z" creationid="AbtdB" creationdate="20240111T154417Z">
-        <seg>可以启堆，</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040947Z" creationid="AbtdB" creationdate="20240111T154417Z">
+        <seg>可以起堆，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2993,8 +2993,8 @@
       <tuv lang="en-US">
         <seg>START</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240112T170447Z" creationid="AbtdB" creationdate="20240112T170447Z">
-        <seg>启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040909Z" creationid="AbtdB" creationdate="20240112T170447Z">
+        <seg>起动</seg>
       </tuv>
     </tu>
     <tu>
@@ -3136,8 +3136,8 @@
       <tuv lang="en-US">
         <seg>Starting fusion run</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240112T170122Z" creationid="AbtdB" creationdate="20240112T170122Z">
-        <seg>启动聚变运行</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040855Z" creationid="AbtdB" creationdate="20240112T170122Z">
+        <seg>起动聚变运行</seg>
       </tuv>
     </tu>
     <tu>
@@ -3235,8 +3235,8 @@
       <tuv lang="en-US">
         <seg>Switching fusion igniters on</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240112T170201Z" creationid="AbtdB" creationdate="20240112T170201Z">
-        <seg>启动聚变点火器</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040857Z" creationid="AbtdB" creationdate="20240112T170201Z">
+        <seg>起动聚变点火器</seg>
       </tuv>
     </tu>
     <tu>
@@ -4874,8 +4874,8 @@
       <tuv lang="en-US">
         <seg>, Cleared for Reactor Activation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240109T183444Z" creationid="AbtdB" creationdate="20240109T183322Z">
-        <seg>，可以启堆</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040951Z" creationid="AbtdB" creationdate="20240109T183322Z">
+        <seg>，可以起堆</seg>
       </tuv>
     </tu>
     <tu>
@@ -6524,8 +6524,8 @@
       <tuv lang="en-US">
         <seg>REACTOR START</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240112T170431Z" creationid="AbtdB" creationdate="20240112T170431Z">
-        <seg>反应堆启动</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040903Z" creationid="AbtdB" creationdate="20240112T170431Z">
+        <seg>反应堆起动</seg>
       </tuv>
     </tu>
     <tu>
@@ -14698,8 +14698,8 @@ Add part for maintenance if ETTF % &lt; Threshold</seg>
       <tuv lang="en-US">
         <seg>Start ☢ 📋</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240101T072351Z" creationid="AbtdB" creationdate="20240101T072351Z">
-        <seg>启动 ☢ 📋</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040923Z" creationid="AbtdB" creationdate="20240101T072351Z">
+        <seg>起动 ☢ 📋</seg>
       </tuv>
     </tu>
     <tu>
@@ -16121,8 +16121,8 @@ Fusion Igniters are automatically turned off below this threshold</seg>
       <tuv lang="en-US">
         <seg>Invoke the Start Reactor checklist</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240101T072353Z" creationid="AbtdB" creationdate="20240101T072353Z">
-        <seg>打开反应堆启动检查单</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040926Z" creationid="AbtdB" creationdate="20240101T072353Z">
+        <seg>打开反应堆起动检查单</seg>
       </tuv>
     </tu>
     <tu>
@@ -23738,8 +23738,8 @@ Evaluate a flight's costs as a function of the departure time</seg>
       <tuv lang="en-US">
         <seg>, Cleared for Reactor Activation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240109T183447Z" creationid="AbtdB" creationdate="20240109T183439Z">
-        <seg>，可以启堆</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040955Z" creationid="AbtdB" creationdate="20240109T183439Z">
+        <seg>，可以起堆</seg>
       </tuv>
     </tu>
     <tu>
@@ -32589,8 +32589,8 @@ Axis</seg>
         <seg>◭: start high-pressure pump #{0}
 ⨺: adjust target pressure</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240114T155804Z" creationid="AbtdB" creationdate="20240114T155804Z">
-        <seg>◭：启动高压泵 #{0}
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040849Z" creationid="AbtdB" creationdate="20240114T155804Z">
+        <seg>◭：起动高压泵 #{0}
 ⨺：调节目标压力</seg>
       </tuv>
     </tu>
@@ -44808,8 +44808,8 @@ Click: analysis start time = map time</seg>
       <tuv lang="en-US">
         <seg>[Reactor Start 📋 as required]</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T133151Z" creationid="AbtdB" creationdate="20250426T133151Z">
-        <seg>【按需执行反应堆启动 📋】</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040928Z" creationid="AbtdB" creationdate="20250426T133151Z">
+        <seg>【按需执行反应堆起动 📋】</seg>
       </tuv>
     </tu>
     <tu>
@@ -48421,8 +48421,8 @@ LMB = 2 weeks</seg>
         <seg>Reactor start (guard)
 (managed by the reactor controller)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240112T164610Z" creationid="AbtdB" creationdate="20240112T164610Z">
-        <seg>反应堆启动（护盖）
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T040852Z" creationid="AbtdB" creationdate="20240112T164610Z">
+        <seg>反应堆起动（护盖）
 （由反应堆控制器管理）</seg>
       </tuv>
     </tu>
