@@ -13683,6 +13683,17 @@ Add part for maintenance if ETTF % &lt; Threshold</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gui/data_file.xlf</prop>
+      <prop type="id">125</prop>
+      <prop type="path">//data_file/791193626D872BE1</prop>
+      <tuv lang="en-US">
+        <seg>CSN Block 0 Set</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T034529Z" creationid="AbtdB" creationdate="20250501T034529Z">
+        <seg>CSN Block 0 组件</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">eng/eng_crew_module_a_panel.xlf</prop>
       <prop type="id">125</prop>
       <prop type="path">//eng_crew_module_a_panel/F8584584438B59CD</prop>
@@ -41832,8 +41843,8 @@ Press to arm (managed by the reactor controller)</seg>
       <tuv lang="en-US">
         <seg>Operational Costs Negotiation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135454Z" creationid="AbtdB" creationdate="20250426T135454Z">
-        <seg>运行成本谈判</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T033246Z" creationid="AbtdB" creationdate="20250426T135454Z">
+        <seg>行动开支协商</seg>
       </tuv>
     </tu>
     <tu>
@@ -47556,8 +47567,8 @@ LMB = 2 weeks</seg>
       <tuv lang="en-US">
         <seg>Ground Operations</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135524Z" creationid="AbtdB" creationdate="20250426T135524Z">
-        <seg>地面作业</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T033202Z" creationid="AbtdB" creationdate="20250426T135524Z">
+        <seg>地面行动</seg>
       </tuv>
     </tu>
     <tu>
@@ -48044,8 +48055,8 @@ LMB = 2 weeks</seg>
       <tuv lang="en-US">
         <seg>Training for off-ship operations. Improves the crew's security skills.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135614Z" creationid="AbtdB" creationdate="20250426T135614Z">
-        <seg>离舰作业训练。提高乘员安保技能。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T033234Z" creationid="AbtdB" creationdate="20250426T135614Z">
+        <seg>离舰行动训练。提高乘员安保技能。</seg>
       </tuv>
     </tu>
     <tu>

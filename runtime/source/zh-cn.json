@@ -2502,5 +2502,11 @@
     "⚠ EQPT Temperature Low": "⚠ EQPT Temperature Low",
     "⚠ CRYO Temperature High": "⚠ CRYO Temperature High",
     "⚠ Multiple ESCUs to Main Bus": "⚠ Multiple ESCUs to Main Bus"
+  },
+  "7": {
+    "Captain": "Captain",
+    "Flight Engineer": "Flight Engineer",
+    "Navigator": "Navigator",
+    "Sensor Specialist": "Sensor Specialist"
   }
 }

@@ -3910,6 +3910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Captain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T034316Z" creationid="AbtdB" creationdate="20250501T034316Z">
+        <seg>舰长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Celestial Navigation Sensor 1: circuit breaker tripped.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20231026T173132Z" creationid="AbtdB" creationdate="20231026T173132Z">
@@ -10742,6 +10750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flight Engineer</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T034317Z" creationid="AbtdB" creationdate="20250501T034317Z">
+        <seg>飞行工程师</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flight time multiplier</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20231210T172909Z" creationid="AbtdB" creationdate="20231210T172909Z">
@@ -15302,6 +15318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigator</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T034318Z" creationid="AbtdB" creationdate="20250501T034318Z">
+        <seg>导航员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nom. thrust</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20231210T172905Z" creationid="AbtdB" creationdate="20231210T172905Z">
@@ -17346,6 +17370,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20231204T143911Z" creationid="AbtdB" creationdate="20231204T143911Z">
         <seg>炽热气巨星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sensor Specialist</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250501T034320Z" creationid="AbtdB" creationdate="20250501T034320Z">
+        <seg>传感器专家</seg>
       </tuv>
     </tu>
     <tu>
