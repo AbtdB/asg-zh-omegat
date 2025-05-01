@@ -39,3 +39,6 @@ OpHrs	行动时数	Operation Hours
 packet	数据包	指网络中传输的数据单位
 IDN	星际数据网
 Interstellar Data Network	星际数据网
+OpHours	行动时数
+Validate	核实
+Negotiate	协商
