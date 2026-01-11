@@ -2576,17 +2576,8 @@
       <uiElt>pShp.uihelmPowerPlantPanel.powerSlider</uiElt>
       <note>If using the main engine set the reactor power |when prompted to (see "Reactor Power-Up Cue|above").</note>
     </item>
-    <item mustCheck="once">
-      <text indent="false">----------</text>
-      <checkAction>ATT/THR call</checkAction>
-      <checkLogic operator="or">
-        <checkVariable negate="false">FC|MVR ATT/THR advisory call</checkVariable>
-      </checkLogic>
-      <uiElt>pShp.uiAdvisoryPanel.msgTable</uiElt>
-      <note>Wait for the "ATT/THR" advisory call to setup the|attitude and thrust control modes before |proceeding further.</note>
-    </item>
     <item mustCheck="always">
-      <text indent="false">Radiation protection</text>
+      <text indent="false">Radiation Protection</text>
       <checkAction>As Required</checkAction>
       <audioChallenge>Radiation protection</audioChallenge>
       <audioConfirm>Checked</audioConfirm>
@@ -2607,6 +2598,15 @@
       <checkAction>Monitor</checkAction>
       <uiElt>pShp.uiEngCrewModuleAPanel.radAudioRenderingSelector</uiElt>
       <note>An audio rendering of the crew's received dose|rate is available for better situational awareness.</note>
+    </item>
+    <item mustCheck="once">
+      <text indent="false">----------</text>
+      <checkAction>ATT/THR call</checkAction>
+      <checkLogic operator="or">
+        <checkVariable negate="false">FC|MVR ATT/THR advisory call</checkVariable>
+      </checkLogic>
+      <uiElt>pShp.uiAdvisoryPanel.msgTable</uiElt>
+      <note>Wait for the "ATT/THR" advisory call to setup the|attitude and thrust control modes before |proceeding further.</note>
     </item>
     <item mustCheck="always">
       <text indent="false">Thrust Mode</text>
@@ -3184,6 +3184,33 @@
       </checkLogic>
       <uiElt>pShp.uiEngElectricalPanel.mainBusTiesMkr</uiElt>
       <note>Large ∆Vs and jump-space volumes may result|in the jump-drive overloading the bus if not |powered by all available sources.</note>
+    </item>
+    <item mustCheck="once">
+      <text indent="false">CMTCUs to PPHS</text>
+      <checkAction>Check</checkAction>
+      <audioChallenge>Crew module TCUs to Power Plant heat sink</audioChallenge>
+      <audioConfirm>Checked</audioConfirm>
+      <checkLogic operator="or">
+        <checkVariable negate="false">CW|CMTCUs to PPHS</checkVariable>
+      </checkLogic>
+      <uiElt>pShp.uiEngElectricalPanel.mainBusTiesMkr</uiElt>
+      <note>Large ∆Vs and jump-space volumes may result|in the jump-drive overloading the bus if not |powered by all available sources.</note>
+    </item>
+    <item mustCheck="no">
+      <text indent="true">TCU A</text>
+      <checkAction>PPHS</checkAction>
+      <checkLogic operator="or">
+        <checkVariable negate="false">CW|CMTCU A to PPHS</checkVariable>
+      </checkLogic>
+      <uiElt>pShp.uiEngCrewModuleBPanel.tcuRadButton_0</uiElt>
+    </item>
+    <item mustCheck="no">
+      <text indent="true">TCU B</text>
+      <checkAction>PPHS</checkAction>
+      <checkLogic operator="or">
+        <checkVariable negate="false">CW|CMTCU B to PPHS</checkVariable>
+      </checkLogic>
+      <uiElt>pShp.uiEngCrewModuleBPanel.tcuRadButton_1</uiElt>
     </item>
     <item mustCheck="once">
       <text indent="false">Jump Drive</text>
@@ -5311,6 +5338,17 @@
       <uiElt>pShp.uiEngCsmPanel.inhibitGuard</uiElt>
       <note>Temporarily inactivates the audio alarms during|the cold start procedure</note>
     </item>
+    <item mustCheck="always">
+      <text indent="false">Docked Inhibit</text>
+      <checkAction>Set</checkAction>
+      <audioChallenge>Systems Monitoring to Docked configuration</audioChallenge>
+      <audioConfirm>Checked</audioConfirm>
+      <checkLogic operator="or">
+        <checkVariable negate="false">CM|Docked Inhibit</checkVariable>
+      </checkLogic>
+      <uiElt>pShp.uiEngCsmPanel.dockedInhibitGuard</uiElt>
+      <note>Sets the Centralized Systems Monitoring to the|"docked" configuration.</note>
+    </item>
     <item mustCheck="no">
       <text indent="false">Electrical System</text>
       <audioChallenge>Electrical System setup</audioChallenge>
@@ -6480,17 +6518,6 @@
       <audioConfirm>Checked</audioConfirm>
       <uiElt>pShp.uiEngThermalPanel</uiElt>
       <note>Check that the Thermal System is ready for|operations. Note: the emergency cooling|protections should be engaged at the reactor|start stage.</note>
-    </item>
-    <item mustCheck="always">
-      <text indent="false">Docked Inhibit</text>
-      <checkAction>Set</checkAction>
-      <audioChallenge>Systems Monitoring to Docked configuration</audioChallenge>
-      <audioConfirm>Checked</audioConfirm>
-      <checkLogic operator="or">
-        <checkVariable negate="false">CM|Docked Inhibit</checkVariable>
-      </checkLogic>
-      <uiElt>pShp.uiEngCsmPanel.dockedInhibitGuard</uiElt>
-      <note>Sets the Centralized Systems Monitoring to the|"docked" configuration.</note>
     </item>
     <item mustCheck="once">
       <text indent="false">Master Inhibit (b)</text>

@@ -1735,11 +1735,11 @@
     <tu>
       <prop type="file">log/supplies_panel.xlf</prop>
       <prop type="id">0</prop>
-      <prop type="path">//supplies_panel/81E1527B350A1E27</prop>
+      <prop type="path">//supplies_panel/2E60EEAB6BD31C39</prop>
       <tuv lang="en-US">
         <seg>Food Kit</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T140743Z" creationid="AbtdB" creationdate="20250426T140743Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164937Z" creationid="AbtdB" creationdate="20260111T164937Z">
         <seg>食品包</seg>
       </tuv>
     </tu>
@@ -2538,11 +2538,11 @@
     <tu>
       <prop type="file">map/celestial_center_of_mass.xlf</prop>
       <prop type="id">0</prop>
-      <prop type="path">//celestial_center_of_mass/D143FAD19FAFF531</prop>
+      <prop type="path">//celestial_center_of_mass/1CEB5993FF81E28B</prop>
       <tuv lang="en-US">
         <seg>Orbital data</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240117T143252Z" creationid="AbtdB" creationdate="20240117T143252Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T165144Z" creationid="AbtdB" creationdate="20260111T165144Z">
         <seg>轨道数据</seg>
       </tuv>
     </tu>
@@ -2956,11 +2956,11 @@
     <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">0</prop>
-      <prop type="path">//crew_skills_panel/34352182B4187A9D</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
       <tuv lang="en-US">
         <seg>Role</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135739Z" creationid="AbtdB" creationdate="20250426T135739Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164750Z" creationid="AbtdB" creationdate="20260111T164750Z">
         <seg>角色</seg>
       </tuv>
     </tu>
@@ -3000,11 +3000,11 @@
     <tu>
       <prop type="file">gui/game_session_manager.xlf</prop>
       <prop type="id">0</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
       <tuv lang="en-US">
         <seg>Saving</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113123Z" creationid="AbtdB" creationdate="20240202T113123Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T163957Z" creationid="AbtdB" creationdate="20260111T163957Z">
         <seg>正在保存</seg>
       </tuv>
     </tu>
@@ -3027,6 +3027,17 @@
         <seg>Selected = </seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T122043Z" creationid="AbtdB" creationdate="20250426T122043Z">
+        <seg>已选 = </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">comms/comms_panel.xlf</prop>
+      <prop type="id">0</prop>
+      <prop type="path">//comms_panel/602BC3CF678B190D</prop>
+      <tuv lang="en-US">
+        <seg>Selected = </seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162919Z" creationid="AbtdB" creationdate="20260111T162919Z">
         <seg>已选 = </seg>
       </tuv>
     </tu>
@@ -5904,11 +5915,11 @@
     <tu>
       <prop type="file">gui/game_session_manager.xlf</prop>
       <prop type="id">1</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
       <tuv lang="en-US">
         <seg>Initializing</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113131Z" creationid="AbtdB" creationdate="20240202T113131Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T163958Z" creationid="AbtdB" creationdate="20260111T163958Z">
         <seg>正在初始化</seg>
       </tuv>
     </tu>
@@ -6333,11 +6344,11 @@
     <tu>
       <prop type="file">map/celestial_center_of_mass.xlf</prop>
       <prop type="id">1</prop>
-      <prop type="path">//celestial_center_of_mass/D143FAD19FAFF531</prop>
+      <prop type="path">//celestial_center_of_mass/1CEB5993FF81E28B</prop>
       <tuv lang="en-US">
         <seg>Orbiting {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240117T143253Z" creationid="AbtdB" creationdate="20240117T143253Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T165147Z" creationid="AbtdB" creationdate="20260111T165147Z">
         <seg>环绕 {0}</seg>
       </tuv>
     </tu>
@@ -6487,11 +6498,11 @@
     <tu>
       <prop type="file">log/supplies_panel.xlf</prop>
       <prop type="id">1</prop>
-      <prop type="path">//supplies_panel/81E1527B350A1E27</prop>
+      <prop type="path">//supplies_panel/2E60EEAB6BD31C39</prop>
       <tuv lang="en-US">
         <seg>Quality</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T140746Z" creationid="AbtdB" creationdate="20250426T140746Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164939Z" creationid="AbtdB" creationdate="20260111T164939Z">
         <seg>品质</seg>
       </tuv>
     </tu>
@@ -6976,6 +6987,17 @@
         <seg>Unknown selected object</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T122045Z" creationid="AbtdB" creationdate="20250426T122045Z">
+        <seg>所选对象未知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">comms/comms_panel.xlf</prop>
+      <prop type="id">1</prop>
+      <prop type="path">//comms_panel/602BC3CF678B190D</prop>
+      <tuv lang="en-US">
+        <seg>Unknown selected object</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162920Z" creationid="AbtdB" creationdate="20260111T162920Z">
         <seg>所选对象未知</seg>
       </tuv>
     </tu>
@@ -8106,11 +8128,11 @@
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">10</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>Ae </seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T121900Z" creationid="AbtdB" creationdate="20240127T121900Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162816Z" creationid="AbtdB" creationdate="20260111T162816Z">
         <seg>孔径 </seg>
       </tuv>
     </tu>
@@ -8491,12 +8513,12 @@
     <tu>
       <prop type="file">gui/game_session_manager.xlf</prop>
       <prop type="id">10</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
       <tuv lang="en-US">
-        <seg>Loading</seg>
+        <seg>Loading from file (async)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113309Z" creationid="AbtdB" creationdate="20240202T113309Z">
-        <seg>正在加载</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164009Z" creationid="AbtdB" creationdate="20260111T164009Z">
+        <seg>正在读取文件（异步）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8700,11 +8722,11 @@
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">10</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
         <seg>Pe Δt</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161222Z" creationid="AbtdB" creationdate="20240105T161222Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164211Z" creationid="AbtdB" creationdate="20260111T164211Z">
         <seg>距近点</seg>
       </tuv>
     </tu>
@@ -10743,12 +10765,12 @@ Tools to edit a flight plan</seg>
     <tu>
       <prop type="file">gui/game_session_manager.xlf</prop>
       <prop type="id">11</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
       <tuv lang="en-US">
-        <seg>Initializing</seg>
+        <seg>Installing the loaded state</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113316Z" creationid="AbtdB" creationdate="20240202T113316Z">
-        <seg>正在初始化</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164010Z" creationid="AbtdB" creationdate="20260111T164010Z">
+        <seg>正在加载读入的状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -12370,11 +12392,11 @@ Optimum of [D + He-3] around 360 keV (fewer neutrons) but yields higher plasma p
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">12</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
         <seg>Ap Δt</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161224Z" creationid="AbtdB" creationdate="20240105T161224Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164214Z" creationid="AbtdB" creationdate="20260111T164214Z">
         <seg>距远点</seg>
       </tuv>
     </tu>
@@ -12431,17 +12453,6 @@ Optimum of [D + He-3] around 360 keV (fewer neutrons) but yields higher plasma p
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240201T030732Z" creationid="AbtdB" creationdate="20240201T030732Z">
         <seg>取消</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">12</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Capturing the backup state</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113331Z" creationid="AbtdB" creationdate="20240202T113331Z">
-        <seg>正在捕获备份状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -12950,6 +12961,17 @@ Add part for maintenance if ETTF % &lt; Threshold</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20250118T103157Z" creationid="AbtdB" creationdate="20240101T080120Z">
         <seg>重置主警诫通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">12</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Restoring the backup state (load failure)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164011Z" creationid="AbtdB" creationdate="20260111T164011Z">
+        <seg>正在恢复到备份状态（加载失败）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14404,6 +14426,17 @@ Add part for maintenance if ETTF % &lt; Threshold</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">13</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Finalizing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164012Z" creationid="AbtdB" creationdate="20260111T164012Z">
+        <seg>正在收尾</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">log/log_os_mnt_panel.xlf</prop>
       <prop type="id">13</prop>
       <prop type="path">//log_os_mnt_panel/68C54569E2EA09E5</prop>
@@ -14456,17 +14489,6 @@ Add part for maintenance if ETTF % &lt; Threshold</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240114T152629Z" creationid="AbtdB" creationdate="20240114T152629Z">
         <seg>液氮入口活门 </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">13</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Loading from file (async)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113340Z" creationid="AbtdB" creationdate="20240202T113340Z">
-        <seg>正在读取文件（异步）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16090,17 +16112,6 @@ Fusion Igniters are automatically turned off below this threshold</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240118T132210Z" creationid="AbtdB" creationdate="20240118T132210Z">
         <seg>路径不一致</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">14</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Installing the loaded state</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113444Z" creationid="AbtdB" creationdate="20240202T113413Z">
-        <seg>正在加载读入的状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -18078,17 +18089,6 @@ Define orbit objects used as targets or departures</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">15</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Restoring the backup state (load failure)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113440Z" creationid="AbtdB" creationdate="20240202T113440Z">
-        <seg>正在恢复到备份状态（加载失败）</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">map/game_obj_asteroid.xlf</prop>
       <prop type="id">15</prop>
       <prop type="path">//game_obj_asteroid/2D860C5B2E1EDB44</prop>
@@ -18302,11 +18302,11 @@ Define orbit objects used as targets or departures</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">15</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>target lock</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T121934Z" creationid="AbtdB" creationdate="20240127T121934Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162632Z" creationid="AbtdB" creationdate="20260111T162632Z">
         <seg>目标锁定</seg>
       </tuv>
     </tu>
@@ -19224,17 +19224,6 @@ Should match the DECs optimum setting (default = 80eV)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">16</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Finalizing</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113712Z" creationid="AbtdB" creationdate="20240202T113507Z">
-        <seg>正在收尾</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">eng/eng_reactor_panel.xlf</prop>
       <prop type="id">16</prop>
       <prop type="path">//eng_reactor_panel/8234397C3CE56820</prop>
@@ -19333,6 +19322,17 @@ Press to arm (managed by the reactor controller)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240118T040558Z" creationid="AbtdB" creationdate="20240118T040558Z">
         <seg>航节与跳跃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">16</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164020Z" creationid="AbtdB" creationdate="20260111T164020Z">
+        <seg>正在加载</seg>
       </tuv>
     </tu>
     <tu>
@@ -20644,6 +20644,17 @@ Regulated Eqpt T° window from threshold sliders, Nom. cryogenic T° 22 K</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">17</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164021Z" creationid="AbtdB" creationdate="20260111T164021Z">
+        <seg>正在初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">nav/maneuver_to_jump_task.xlf</prop>
       <prop type="id">17</prop>
       <prop type="path">//maneuver_to_jump_task/6E93A45DD0260916</prop>
@@ -21704,6 +21715,17 @@ Regulated Eqpt T° window from threshold sliders, Nom. cryogenic T° 22 K</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">18</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Loading from file (async)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164022Z" creationid="AbtdB" creationdate="20260111T164022Z">
+        <seg>正在读取文件（异步）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">eng/systems_controller.xlf</prop>
       <prop type="id">18</prop>
       <prop type="path">//systems_controller/9735482F9AD174DF</prop>
@@ -21840,11 +21862,11 @@ NB: data used for endurance computations</seg>
     <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">18</prop>
-      <prop type="path">//crew_skills_panel/34352182B4187A9D</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
       <tuv lang="en-US">
         <seg>Passenger</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135807Z" creationid="AbtdB" creationdate="20250426T135807Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164804Z" creationid="AbtdB" creationdate="20260111T164804Z">
         <seg>乘客</seg>
       </tuv>
     </tu>
@@ -22786,17 +22808,6 @@ Evaluate a flight's costs as a function of the departure time</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">19</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Loading</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T125809Z" creationid="AbtdB" creationdate="20240202T125809Z">
-        <seg>正在加载</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">map/game_obj_regular_star.xlf</prop>
       <prop type="id">19</prop>
       <prop type="path">//game_obj_regular_star/C6A74DC7564E132F</prop>
@@ -22832,11 +22843,11 @@ Evaluate a flight's costs as a function of the departure time</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">19</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>No Data</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122023Z" creationid="AbtdB" creationdate="20240127T122023Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162634Z" creationid="AbtdB" creationdate="20260111T162634Z">
         <seg>无数据</seg>
       </tuv>
     </tu>
@@ -22904,6 +22915,17 @@ Evaluate a flight's costs as a function of the departure time</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240118T074628Z" creationid="AbtdB" creationdate="20240118T074628Z">
         <seg>请检查【前向角】参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">19</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Prefetching</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164024Z" creationid="AbtdB" creationdate="20260111T164024Z">
+        <seg>正在预取</seg>
       </tuv>
     </tu>
     <tu>
@@ -24317,11 +24339,11 @@ Evaluate a flight's costs as a function of the departure time</seg>
     <tu>
       <prop type="file">gui/game_session_manager.xlf</prop>
       <prop type="id">2</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
       <tuv lang="en-US">
         <seg>Capturing the state</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113150Z" creationid="AbtdB" creationdate="20240202T113150Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T163959Z" creationid="AbtdB" creationdate="20260111T163959Z">
         <seg>正在捕获状态</seg>
       </tuv>
     </tu>
@@ -25054,11 +25076,11 @@ Evaluate a flight's costs as a function of the departure time</seg>
     <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">2</prop>
-      <prop type="path">//crew_skills_panel/34352182B4187A9D</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
       <tuv lang="en-US">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135741Z" creationid="AbtdB" creationdate="20250426T135741Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164752Z" creationid="AbtdB" creationdate="20260111T164752Z">
         <seg>姓名</seg>
       </tuv>
     </tu>
@@ -25494,11 +25516,11 @@ Evaluate a flight's costs as a function of the departure time</seg>
     <tu>
       <prop type="file">map/celestial_center_of_mass.xlf</prop>
       <prop type="id">2</prop>
-      <prop type="path">//celestial_center_of_mass/D143FAD19FAFF531</prop>
+      <prop type="path">//celestial_center_of_mass/1CEB5993FF81E28B</prop>
       <tuv lang="en-US">
         <seg>SOI </seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240117T143257Z" creationid="AbtdB" creationdate="20240117T143257Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T165148Z" creationid="AbtdB" creationdate="20260111T165148Z">
         <seg>影响球 </seg>
       </tuv>
     </tu>
@@ -26561,6 +26583,17 @@ Evaluate a flight's costs as a function of the departure time</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">20</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Capturing the backup state</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164025Z" creationid="AbtdB" creationdate="20260111T164025Z">
+        <seg>正在捕获备份状态</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">log/log_orb_srv_panel.xlf</prop>
       <prop type="id">20</prop>
       <prop type="path">//log_orb_srv_panel/2D4A5586A70B9F86</prop>
@@ -26726,17 +26759,6 @@ Evaluate a flight's costs as a function of the departure time</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">20</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Initializing</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T125829Z" creationid="AbtdB" creationdate="20240202T125829Z">
-        <seg>正在初始化</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">comms/comms_messaging_panel.xlf</prop>
       <prop type="id">20</prop>
       <prop type="path">//comms_messaging_panel/84A905D684701CEF</prop>
@@ -26805,11 +26827,11 @@ Evaluate a flight's costs as a function of the departure time</seg>
     <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">20</prop>
-      <prop type="path">//crew_skills_panel/34352182B4187A9D</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
       <tuv lang="en-US">
         <seg>Mission</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135809Z" creationid="AbtdB" creationdate="20250426T135809Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164805Z" creationid="AbtdB" creationdate="20260111T164805Z">
         <seg>任务</seg>
       </tuv>
     </tu>
@@ -27742,6 +27764,17 @@ Press to arm (managed by the reactor controller)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">21</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Installing the loaded state</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164026Z" creationid="AbtdB" creationdate="20260111T164026Z">
+        <seg>正在加载读入的状态</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">eng/player_ship.xlf</prop>
       <prop type="id">21</prop>
       <prop type="path">//player_ship/45E821668F272CD5</prop>
@@ -27761,17 +27794,6 @@ Press to arm (managed by the reactor controller)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T171140Z" creationid="AbtdB" creationdate="20240127T171140Z">
         <seg>液氮 </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">21</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Loading from file (async)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T125753Z" creationid="AbtdB" creationdate="20240202T125753Z">
-        <seg>正在读取文件（异步）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28663,11 +28685,11 @@ NB: mission crew field used for endurance computations</seg>
     <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">22</prop>
-      <prop type="path">//crew_skills_panel/34352182B4187A9D</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
       <tuv lang="en-US">
         <seg>Passenger</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135826Z" creationid="AbtdB" creationdate="20250426T135826Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164807Z" creationid="AbtdB" creationdate="20260111T164807Z">
         <seg>乘客</seg>
       </tuv>
     </tu>
@@ -28718,12 +28740,12 @@ NB: mission crew field used for endurance computations</seg>
     <tu>
       <prop type="file">gui/game_session_manager.xlf</prop>
       <prop type="id">22</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
       <tuv lang="en-US">
-        <seg>Prefetching</seg>
+        <seg>Restoring the backup state (load failure)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T125836Z" creationid="AbtdB" creationdate="20240202T125836Z">
-        <seg>正在预取</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164027Z" creationid="AbtdB" creationdate="20260111T164027Z">
+        <seg>正在恢复到备份状态（加载失败）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29334,17 +29356,6 @@ Battery, Superconducting Magnetic Energy Storage, 20 kV and 400 V Power Supplies
       </tuv>
     </tu>
     <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">23</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Capturing the backup state</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T125839Z" creationid="AbtdB" creationdate="20240202T125839Z">
-        <seg>正在捕获备份状态</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">map/space_elevator_station.xlf</prop>
       <prop type="id">23</prop>
       <prop type="path">//space_elevator_station/6891E3BF1CDCFE28</prop>
@@ -29411,13 +29422,24 @@ Battery, Superconducting Magnetic Energy Storage, 20 kV and 400 V Power Supplies
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">23</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Finalizing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164028Z" creationid="AbtdB" creationdate="20260111T164028Z">
+        <seg>正在收尾</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">log/supplies_panel.xlf</prop>
       <prop type="id">23</prop>
-      <prop type="path">//supplies_panel/81E1527B350A1E27</prop>
+      <prop type="path">//supplies_panel/2E60EEAB6BD31C39</prop>
       <tuv lang="en-US">
         <seg>Food Order</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T140757Z" creationid="AbtdB" creationdate="20250426T140757Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164957Z" creationid="AbtdB" creationdate="20260111T164957Z">
         <seg>食品共订购</seg>
       </tuv>
     </tu>
@@ -29547,11 +29569,11 @@ Tools related to jump-points and their approach</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">23</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
         <seg>Pe Δt</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161226Z" creationid="AbtdB" creationdate="20240105T161226Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164217Z" creationid="AbtdB" creationdate="20260111T164217Z">
         <seg>距近点</seg>
       </tuv>
     </tu>
@@ -30286,17 +30308,6 @@ Press to arm (managed by the reactor controller)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">24</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Installing the loaded state</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T125841Z" creationid="AbtdB" creationdate="20240202T125841Z">
-        <seg>正在加载读入的状态</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">helm/helm_flight_plan_panel.xlf</prop>
       <prop type="id">24</prop>
       <prop type="path">//helm_flight_plan_panel/FFF1663D117B24AE</prop>
@@ -30972,11 +30983,11 @@ Press to arm (managed by the reactor controller)</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">25</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
         <seg>Ex Δt</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161228Z" creationid="AbtdB" creationdate="20240105T161228Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164220Z" creationid="AbtdB" creationdate="20260111T164220Z">
         <seg>距逃逸</seg>
       </tuv>
     </tu>
@@ -31088,17 +31099,6 @@ Press to arm (managed by the reactor controller)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T160832Z" creationid="AbtdB" creationdate="20240105T160832Z">
         <seg>低辐照反向</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">25</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Restoring the backup state (load failure)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T125843Z" creationid="AbtdB" creationdate="20240202T125843Z">
-        <seg>正在恢复到备份状态（加载失败）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31260,11 +31260,11 @@ Press to arm (managed by the reactor controller)</seg>
     <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">25</prop>
-      <prop type="path">//crew_skills_panel/34352182B4187A9D</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
       <tuv lang="en-US">
         <seg>🏹 Mission</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135829Z" creationid="AbtdB" creationdate="20250426T135829Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164809Z" creationid="AbtdB" creationdate="20260111T164809Z">
         <seg>🏹 任务</seg>
       </tuv>
     </tu>
@@ -31631,17 +31631,6 @@ Press to arm (managed by the reactor controller)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T162732Z" creationid="AbtdB" creationdate="20240105T162732Z">
         <seg>滑行 △</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">26</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Finalizing</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T125844Z" creationid="AbtdB" creationdate="20240202T125844Z">
-        <seg>正在收尾</seg>
       </tuv>
     </tu>
     <tu>
@@ -33740,12 +33729,12 @@ Press to arm (managed by the reactor controller)</seg>
     <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">29</prop>
-      <prop type="path">//crew_skills_panel/34352182B4187A9D</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
       <tuv lang="en-US">
-        <seg>No passengers</seg>
+        <seg>Passenger</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135838Z" creationid="AbtdB" creationdate="20250426T135838Z">
-        <seg>无乘客</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164813Z" creationid="AbtdB" creationdate="20260111T164813Z">
+        <seg>乘客</seg>
       </tuv>
     </tu>
     <tu>
@@ -35856,11 +35845,11 @@ CO₂ + 4H₂ → CH₄ (排出) + 2H₂O (回收)</seg>
     <tu>
       <prop type="file">log/supplies_panel.xlf</prop>
       <prop type="id">3</prop>
-      <prop type="path">//supplies_panel/81E1527B350A1E27</prop>
+      <prop type="path">//supplies_panel/2E60EEAB6BD31C39</prop>
       <tuv lang="en-US">
         <seg>On Ship</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T140748Z" creationid="AbtdB" creationdate="20250426T140748Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164941Z" creationid="AbtdB" creationdate="20260111T164941Z">
         <seg>舰载</seg>
       </tuv>
     </tu>
@@ -36364,11 +36353,11 @@ Break a journey into multiple flights with refueling stops</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">3</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>Tracking: </seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T114838Z" creationid="AbtdB" creationdate="20240127T114838Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162619Z" creationid="AbtdB" creationdate="20260111T162619Z">
         <seg>跟踪：</seg>
       </tuv>
     </tu>
@@ -36469,6 +36458,17 @@ Break a journey into multiple flights with refueling stops</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240118T132453Z" creationid="AbtdB" creationdate="20240118T132453Z">
         <seg>不可恢复错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">3</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Writing to file (async)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164000Z" creationid="AbtdB" creationdate="20260111T164000Z">
+        <seg>正在写入文件（异步）</seg>
       </tuv>
     </tu>
     <tu>
@@ -37798,6 +37798,17 @@ NB: active on the selected object</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">log/crew_skills_panel.xlf</prop>
+      <prop type="id">31</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
+      <tuv lang="en-US">
+        <seg>Passengers [{0}..{1}]/{2}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164828Z" creationid="AbtdB" creationdate="20260111T164828Z">
+        <seg>乘客 [{0}..{1}]/{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">nav/path_finder.xlf</prop>
       <prop type="id">31</prop>
       <prop type="path">//path_finder/63B6E16988E7C0CC</prop>
@@ -37899,11 +37910,11 @@ NB: active on the selected object</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">31</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
         <seg>⚠ IMPACT ⚠</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161231Z" creationid="AbtdB" creationdate="20240105T161231Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164224Z" creationid="AbtdB" creationdate="20260111T164224Z">
         <seg>⚠ 撞击警告 ⚠</seg>
       </tuv>
     </tu>
@@ -38248,6 +38259,17 @@ Ring: ⨺ to change increment value</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240101T132809Z" creationid="AbtdB" creationdate="20240101T132809Z">
         <seg>空闲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">helm/helm_orbit_display.xlf</prop>
+      <prop type="id">32</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
+      <tuv lang="en-US">
+        <seg>IMPACT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164507Z" creationid="AbtdB" creationdate="20260111T164507Z">
+        <seg>撞击警告</seg>
       </tuv>
     </tu>
     <tu>
@@ -38859,6 +38881,17 @@ LMB = toggle between 0.5° and 10° increments</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">helm/helm_orbit_display.xlf</prop>
+      <prop type="id">33</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
+      <tuv lang="en-US">
+        <seg>IMPACT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164511Z" creationid="AbtdB" creationdate="20260111T164511Z">
+        <seg>撞击警告</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">log/crew_game_data.xlf</prop>
       <prop type="id">33</prop>
       <prop type="path">//crew_game_data/FD02BDB18492CFD9</prop>
@@ -39032,17 +39065,6 @@ LMB = toggle between 0.5° and 10° increments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240107T122612Z" creationid="AbtdB" creationdate="20240107T122612Z">
         <seg>】，请将信标模式设为 GNR 🌐</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">helm/helm_orbit_display.xlf</prop>
-      <prop type="id">33</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
-      <tuv lang="en-US">
-        <seg>main body</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161232Z" creationid="AbtdB" creationdate="20240105T161232Z">
-        <seg>主天体</seg>
       </tuv>
     </tu>
     <tu>
@@ -39698,17 +39720,6 @@ Press to arm (managed by the reactor controller)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">helm/helm_orbit_display.xlf</prop>
-      <prop type="id">34</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
-      <tuv lang="en-US">
-        <seg>ring A</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161233Z" creationid="AbtdB" creationdate="20240105T161233Z">
-        <seg>A 环</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">nav/approach_task.xlf</prop>
       <prop type="id">34</prop>
       <prop type="path">//approach_task/AA1D934E5812DC02</prop>
@@ -40355,12 +40366,12 @@ LMB = toggle between 1 m and 100 m increments</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">35</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
-        <seg>ring B</seg>
+        <seg>main body</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161234Z" creationid="AbtdB" creationdate="20240105T161234Z">
-        <seg>B 环</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164515Z" creationid="AbtdB" creationdate="20260111T164515Z">
+        <seg>主天体</seg>
       </tuv>
     </tu>
     <tu>
@@ -40878,12 +40889,12 @@ LMB to increment, ⨺ to increment or decrement</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">36</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
-        <seg>ring C</seg>
+        <seg>ring A</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161234Z" creationid="AbtdB" creationdate="20240105T161234Z">
-        <seg>C 环</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164516Z" creationid="AbtdB" creationdate="20260111T164516Z">
+        <seg>A 环</seg>
       </tuv>
     </tu>
     <tu>
@@ -41443,12 +41454,12 @@ Press to arm (managed by the reactor controller)</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">37</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
-        <seg>ring D</seg>
+        <seg>ring B</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161235Z" creationid="AbtdB" creationdate="20240105T161235Z">
-        <seg>D 环</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164517Z" creationid="AbtdB" creationdate="20260111T164517Z">
+        <seg>B 环</seg>
       </tuv>
     </tu>
     <tu>
@@ -41918,12 +41929,12 @@ Press to arm (managed by the reactor controller)</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">38</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
-        <seg>ring E</seg>
+        <seg>ring C</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161236Z" creationid="AbtdB" creationdate="20240105T161236Z">
-        <seg>E 环</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164517Z" creationid="AbtdB" creationdate="20260111T164517Z">
+        <seg>C 环</seg>
       </tuv>
     </tu>
     <tu>
@@ -42384,12 +42395,12 @@ Click: analysis start time = map time</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">39</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
-        <seg>ring F</seg>
+        <seg>ring D</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161236Z" creationid="AbtdB" creationdate="20240105T161236Z">
-        <seg>F 环</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164518Z" creationid="AbtdB" creationdate="20260111T164518Z">
+        <seg>D 环</seg>
       </tuv>
     </tu>
     <tu>
@@ -43691,6 +43702,17 @@ Click: analysis start time = map time</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">4</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Finalizing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164001Z" creationid="AbtdB" creationdate="20260111T164001Z">
+        <seg>正在收尾</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">nav/route_finder.xlf</prop>
       <prop type="id">4</prop>
       <prop type="path">//route_finder/97BD093AED2B8DCB</prop>
@@ -43889,17 +43911,6 @@ Click: analysis start time = map time</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">map/celestial_center_of_mass.xlf</prop>
-      <prop type="id">4</prop>
-      <prop type="path">//celestial_center_of_mass/D143FAD19FAFF531</prop>
-      <tuv lang="en-US">
-        <seg>Jump range </seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240117T143306Z" creationid="AbtdB" creationdate="20240117T143306Z">
-        <seg>跳跃距离 </seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">helm/helm_jump_drives_panel.xlf</prop>
       <prop type="id">4</prop>
       <prop type="path">//helm_jump_drives_panel/E196CDEF667FA9EB</prop>
@@ -44001,11 +44012,11 @@ Click: analysis start time = map time</seg>
     <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">4</prop>
-      <prop type="path">//crew_skills_panel/34352182B4187A9D</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
       <tuv lang="en-US">
         <seg>Mass</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135749Z" creationid="AbtdB" creationdate="20250426T135749Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164753Z" creationid="AbtdB" creationdate="20260111T164753Z">
         <seg>质量</seg>
       </tuv>
     </tu>
@@ -44067,11 +44078,11 @@ Click: analysis start time = map time</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">4</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>No target</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T114841Z" creationid="AbtdB" creationdate="20240127T114841Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162621Z" creationid="AbtdB" creationdate="20260111T162621Z">
         <seg>无目标</seg>
       </tuv>
     </tu>
@@ -44177,11 +44188,11 @@ Click: analysis start time = map time</seg>
     <tu>
       <prop type="file">log/supplies_panel.xlf</prop>
       <prop type="id">4</prop>
-      <prop type="path">//supplies_panel/81E1527B350A1E27</prop>
+      <prop type="path">//supplies_panel/2E60EEAB6BD31C39</prop>
       <tuv lang="en-US">
         <seg>Order</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T140749Z" creationid="AbtdB" creationdate="20250426T140749Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164943Z" creationid="AbtdB" creationdate="20260111T164943Z">
         <seg>订购</seg>
       </tuv>
     </tu>
@@ -45666,12 +45677,12 @@ Ring: ⨺ change increment value</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">40</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
-        <seg>ring H</seg>
+        <seg>ring E</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161237Z" creationid="AbtdB" creationdate="20240105T161237Z">
-        <seg>H 环</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164519Z" creationid="AbtdB" creationdate="20260111T164519Z">
+        <seg>E 环</seg>
       </tuv>
     </tu>
     <tu>
@@ -46262,12 +46273,12 @@ TCCU starts cooling when T° &gt; threshold</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">41</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
-        <seg>ring I</seg>
+        <seg>ring F</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161238Z" creationid="AbtdB" creationdate="20240105T161238Z">
-        <seg>I 环</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164520Z" creationid="AbtdB" creationdate="20260111T164520Z">
+        <seg>F 环</seg>
       </tuv>
     </tu>
     <tu>
@@ -46822,12 +46833,12 @@ Press to arm (managed by the reactor controller)</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">42</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
-        <seg>ring J</seg>
+        <seg>ring H</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161239Z" creationid="AbtdB" creationdate="20240105T161239Z">
-        <seg>J 环</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164520Z" creationid="AbtdB" creationdate="20260111T164520Z">
+        <seg>H 环</seg>
       </tuv>
     </tu>
     <tu>
@@ -47176,12 +47187,12 @@ Press to arm (managed by the reactor controller)</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">43</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
-        <seg>ring K</seg>
+        <seg>ring I</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161246Z" creationid="AbtdB" creationdate="20240105T161246Z">
-        <seg>K 环</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164622Z" creationid="AbtdB" creationdate="20260111T164622Z">
+        <seg>I 环</seg>
       </tuv>
     </tu>
     <tu>
@@ -47662,6 +47673,17 @@ LMB = 2 weeks</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">helm/helm_orbit_display.xlf</prop>
+      <prop type="id">44</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
+      <tuv lang="en-US">
+        <seg>ring J</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164627Z" creationid="AbtdB" creationdate="20260111T164627Z">
+        <seg>J 环</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">helm/helm_relative_flight_panel.xlf</prop>
       <prop type="id">44</prop>
       <prop type="path">//helm_relative_flight_panel/7F3C50E145C4917C</prop>
@@ -48068,6 +48090,17 @@ LMB = 2 weeks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240107T122721Z" creationid="AbtdB" creationdate="20240107T122721Z">
         <seg>【</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">helm/helm_orbit_display.xlf</prop>
+      <prop type="id">45</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
+      <tuv lang="en-US">
+        <seg>ring K</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164657Z" creationid="AbtdB" creationdate="20260111T164657Z">
+        <seg>K 环</seg>
       </tuv>
     </tu>
     <tu>
@@ -49871,11 +49904,11 @@ Ring: ⨺ to change increment value</seg>
     <tu>
       <prop type="file">log/supplies_panel.xlf</prop>
       <prop type="id">5</prop>
-      <prop type="path">//supplies_panel/81E1527B350A1E27</prop>
+      <prop type="path">//supplies_panel/2E60EEAB6BD31C39</prop>
       <tuv lang="en-US">
         <seg>Cost</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T140750Z" creationid="AbtdB" creationdate="20250426T140750Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164945Z" creationid="AbtdB" creationdate="20260111T164945Z">
         <seg>费用</seg>
       </tuv>
     </tu>
@@ -49948,11 +49981,11 @@ Ring: ⨺ to change increment value</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">5</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>Est.↔⊙: RX </seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T114914Z" creationid="AbtdB" creationdate="20240127T114910Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162624Z" creationid="AbtdB" creationdate="20260111T162624Z">
         <seg>预计↔⊙：收 </seg>
       </tuv>
     </tu>
@@ -52098,11 +52131,11 @@ Unsynced: object is underlying trajectory curve</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">53</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>Trk: </seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122116Z" creationid="AbtdB" creationdate="20240127T122116Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162641Z" creationid="AbtdB" creationdate="20260111T162641Z">
         <seg>跟踪：</seg>
       </tuv>
     </tu>
@@ -52309,11 +52342,11 @@ Unsynced: object is underlying trajectory curve</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">54</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>No target</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122121Z" creationid="AbtdB" creationdate="20240127T122121Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162643Z" creationid="AbtdB" creationdate="20260111T162643Z">
         <seg>无目标</seg>
       </tuv>
     </tu>
@@ -52630,11 +52663,11 @@ Unsynced: object is underlying trajectory curve</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">56</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg> RX+TX</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122125Z" creationid="AbtdB" creationdate="20240127T122125Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162645Z" creationid="AbtdB" creationdate="20260111T162645Z">
         <seg> 收+发</seg>
       </tuv>
     </tu>
@@ -52946,11 +52979,11 @@ Ring: ⨺ change increment value</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">58</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg> RX</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122127Z" creationid="AbtdB" creationdate="20240127T122127Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162648Z" creationid="AbtdB" creationdate="20260111T162648Z">
         <seg> 收</seg>
       </tuv>
     </tu>
@@ -53078,11 +53111,11 @@ Ring: ⨺ change increment value</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">59</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>Channel Set?</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122129Z" creationid="AbtdB" creationdate="20240127T122129Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162703Z" creationid="AbtdB" creationdate="20260111T162703Z">
         <seg>信道集？</seg>
       </tuv>
     </tu>
@@ -53628,11 +53661,11 @@ Ring: ⨺ change increment value</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">6</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>, TX </seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T114920Z" creationid="AbtdB" creationdate="20240127T114920Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162625Z" creationid="AbtdB" creationdate="20260111T162625Z">
         <seg>，发 </seg>
       </tuv>
     </tu>
@@ -53749,11 +53782,11 @@ Ring: ⨺ change increment value</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">6</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
         <seg>Ap alt</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161219Z" creationid="AbtdB" creationdate="20240105T161219Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164205Z" creationid="AbtdB" creationdate="20260111T164205Z">
         <seg>远点高</seg>
       </tuv>
     </tu>
@@ -55045,17 +55078,6 @@ Ring: ⨺ change increment value</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">6</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Writing to file (async)</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113246Z" creationid="AbtdB" creationdate="20240202T113156Z">
-        <seg>正在写入文件（异步）</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">comms/comms_messaging_panel.xlf</prop>
       <prop type="id">6</prop>
       <prop type="path">//comms_messaging_panel/4245EF6078BDABDD</prop>
@@ -55673,11 +55695,11 @@ Other fields: ⨺ to scroll up/down</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">61</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg> OFF</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122131Z" creationid="AbtdB" creationdate="20240127T122131Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162848Z" creationid="AbtdB" creationdate="20260111T162848Z">
         <seg> 关</seg>
       </tuv>
     </tu>
@@ -55886,11 +55908,11 @@ Other fields: ⨺ to scroll up/down</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">62</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>Channel Set?</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122132Z" creationid="AbtdB" creationdate="20240127T122132Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162743Z" creationid="AbtdB" creationdate="20260111T162743Z">
         <seg>信道集？</seg>
       </tuv>
     </tu>
@@ -56359,11 +56381,11 @@ Other fields: ⨺ to scroll up/down</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">65</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>RX ○</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122142Z" creationid="AbtdB" creationdate="20240127T122142Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162751Z" creationid="AbtdB" creationdate="20260111T162751Z">
         <seg>收 ○</seg>
       </tuv>
     </tu>
@@ -56587,11 +56609,11 @@ NB: '🔒' = locked, 'ΔP' = differential pressure, '🌀⨴' = EM Shield charge
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">66</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>RX ●</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122145Z" creationid="AbtdB" creationdate="20240127T122145Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162752Z" creationid="AbtdB" creationdate="20260111T162752Z">
         <seg>收 ●</seg>
       </tuv>
     </tu>
@@ -57031,11 +57053,11 @@ NB: exclusions apply to both the route and the flight planners</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">69</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>AGC</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122243Z" creationid="AbtdB" creationdate="20240127T122207Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162755Z" creationid="AbtdB" creationdate="20260111T162755Z">
         <seg>自动增益</seg>
       </tuv>
     </tu>
@@ -58067,17 +58089,6 @@ Devise a detailed plan for a flight</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">gui/game_session_manager.xlf</prop>
-      <prop type="id">7</prop>
-      <prop type="path">//game_session_manager/EA3A6DE3BC53C701</prop>
-      <tuv lang="en-US">
-        <seg>Finalizing</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240202T113716Z" creationid="AbtdB" creationdate="20240202T113242Z">
-        <seg>正在收尾</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">7</prop>
       <prop type="path">//crew_skills_panel/3C7C72D3BC4F2CE1</prop>
@@ -58273,6 +58284,17 @@ Devise a detailed plan for a flight</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T120227Z" creationid="AbtdB" creationdate="20250426T120227Z">
         <seg>链路测试 ⚠ 未定义中继站</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">7</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164006Z" creationid="AbtdB" creationdate="20260111T164006Z">
+        <seg>正在加载</seg>
       </tuv>
     </tu>
     <tu>
@@ -59502,11 +59524,11 @@ Axis</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">71</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>TX ○</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122340Z" creationid="AbtdB" creationdate="20240127T122340Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162757Z" creationid="AbtdB" creationdate="20260111T162757Z">
         <seg>发 ○</seg>
       </tuv>
     </tu>
@@ -59678,11 +59700,11 @@ Axis</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">72</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>TX ●</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122343Z" creationid="AbtdB" creationdate="20240127T122343Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162759Z" creationid="AbtdB" creationdate="20260111T162759Z">
         <seg>发 ●</seg>
       </tuv>
     </tu>
@@ -60021,11 +60043,11 @@ Axis</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">75</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>APC</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122420Z" creationid="AbtdB" creationdate="20240127T122420Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162800Z" creationid="AbtdB" creationdate="20260111T162800Z">
         <seg>自动功率</seg>
       </tuv>
     </tu>
@@ -61560,6 +61582,17 @@ Protects the EQPT bus from main bus overloads if the reactor is running</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">8</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164007Z" creationid="AbtdB" creationdate="20260111T164007Z">
+        <seg>正在初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">nav/departure_task.xlf</prop>
       <prop type="id">8</prop>
       <prop type="path">//departure_task/FF55732B6C86DFB3</prop>
@@ -61672,11 +61705,11 @@ Protects the EQPT bus from main bus overloads if the reactor is running</seg>
     <tu>
       <prop type="file">log/crew_skills_panel.xlf</prop>
       <prop type="id">8</prop>
-      <prop type="path">//crew_skills_panel/34352182B4187A9D</prop>
+      <prop type="path">//crew_skills_panel/AAC46AAF69D68A83</prop>
       <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20250426T135802Z" creationid="AbtdB" creationdate="20250426T135802Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164756Z" creationid="AbtdB" creationdate="20260111T164756Z">
         <seg>备注</seg>
       </tuv>
     </tu>
@@ -61782,11 +61815,11 @@ Protects the EQPT bus from main bus overloads if the reactor is running</seg>
     <tu>
       <prop type="file">helm/helm_orbit_display.xlf</prop>
       <prop type="id">8</prop>
-      <prop type="path">//helm_orbit_display/20E4FEC36F55CCE6</prop>
+      <prop type="path">//helm_orbit_display/8C10CF68D457C218</prop>
       <tuv lang="en-US">
         <seg>Period</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240105T161221Z" creationid="AbtdB" creationdate="20240105T161221Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164207Z" creationid="AbtdB" creationdate="20260111T164207Z">
         <seg>周期</seg>
       </tuv>
     </tu>
@@ -62580,11 +62613,11 @@ positive angle relative to ∆V</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">80</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>RX←⊙ -- ls, TX→⊙ -- ls</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122703Z" creationid="AbtdB" creationdate="20240127T122703Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162805Z" creationid="AbtdB" creationdate="20260111T162805Z">
         <seg>收←⊙ -- ls, 发→⊙ -- ls</seg>
       </tuv>
     </tu>
@@ -63035,11 +63068,11 @@ negative angle relative to ∆V</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">84</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>Ae -- m² </seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122722Z" creationid="AbtdB" creationdate="20240127T122722Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162813Z" creationid="AbtdB" creationdate="20260111T162813Z">
         <seg>孔径 -- m² </seg>
       </tuv>
     </tu>
@@ -64173,6 +64206,17 @@ Please use in case of OTC mafluction (hang...) and send for investigation thanks
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240116T090531Z" creationid="AbtdB" creationdate="20240116T090531Z">
         <seg>低温回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">gui/game_session_manager.xlf</prop>
+      <prop type="id">9</prop>
+      <prop type="path">//game_session_manager/1E52EF3FE2F7CC14</prop>
+      <tuv lang="en-US">
+        <seg>Capturing the backup state</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T164008Z" creationid="AbtdB" creationdate="20260111T164008Z">
+        <seg>正在捕获备份状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -65640,11 +65684,11 @@ Dbl ◭: zoom to the departure point</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">93</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>Ch. --</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122739Z" creationid="AbtdB" creationdate="20240127T122739Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162908Z" creationid="AbtdB" creationdate="20260111T162908Z">
         <seg>信道 --</seg>
       </tuv>
     </tu>
@@ -66029,11 +66073,11 @@ Target HAB dose rates [mSv/y]: Low = 100, Medium = 70, High = 40</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">96</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>RX --</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122743Z" creationid="AbtdB" creationdate="20240127T122743Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162911Z" creationid="AbtdB" creationdate="20260111T162911Z">
         <seg>收 --</seg>
       </tuv>
     </tu>
@@ -66218,11 +66262,11 @@ Target HAB dose rates [mSv/y]: Low = 100, Medium = 70, High = 40</seg>
     <tu>
       <prop type="file">comms/comms_panel.xlf</prop>
       <prop type="id">98</prop>
-      <prop type="path">//comms_panel/D59C595A25E4A645</prop>
+      <prop type="path">//comms_panel/E85E67D9E3850364</prop>
       <tuv lang="en-US">
         <seg>TX --</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20240127T122747Z" creationid="AbtdB" creationdate="20240127T122747Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162913Z" creationid="AbtdB" creationdate="20260111T162913Z">
         <seg>发 --</seg>
       </tuv>
     </tu>

@@ -3318,6 +3318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CMTCUs to PPHS</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T161821Z" creationid="AbtdB" creationdate="20260111T161821Z">
+        <seg>CMTCU 接入 PPHS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CSN F9 Phases of flight</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240122T145435Z" creationid="AbtdB" creationdate="20240122T145435Z">
@@ -5362,6 +5370,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240123T144455Z" creationid="AbtdB" creationdate="20240123T144455Z">
         <seg>乘员舱物资</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module TCUs to Power Plant heat sink</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T161947Z" creationid="AbtdB" creationdate="20260111T161947Z">
+        <seg>乘员舱 TCU 接入动力装置热沉</seg>
       </tuv>
     </tu>
     <tu>
@@ -15478,6 +15494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PPHS</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162018Z" creationid="AbtdB" creationdate="20260111T162018Z">
+        <seg>PPHS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PPS Signal</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240123T153211Z" creationid="AbtdB" creationdate="20240123T153211Z">
@@ -21018,6 +21042,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20240129T131219Z" creationid="AbtdB" creationdate="20240129T131219Z">
         <seg>TCCU #3 会根据热载荷自动调节功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TCU A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162009Z" creationid="AbtdB" creationdate="20260111T162009Z">
+        <seg>TCU A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TCU B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20260111T162021Z" creationid="AbtdB" creationdate="20260111T162021Z">
+        <seg>TCU B</seg>
       </tuv>
     </tu>
     <tu>
